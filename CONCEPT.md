@@ -23,6 +23,7 @@ It is important to know the UV index because it shows the intensity of ultraviol
 **Required structure for now:**
 
 ```
-project-name/
+UV index checker/
+└── CONCEPT.md
 └── README.md
 ```
