@@ -20,7 +20,7 @@ It is important to know the UV index because it shows the intensity of ultraviol
 
 ### 2. GitHub Repository
 
-**Required structure for now:**
+**Structure for now:**
 
 ```
 UV index checker/
